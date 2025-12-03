@@ -1,0 +1,3 @@
+{"backend_state":"running","connection_file":"/tmp/xdg-runtime-user/jupyter/kernel-7edcf491-1c94-4719-a0c4-2fbb39e42122.json","kernel":"python3","kernel_error":"","kernel_state":"idle","kernel_usage":{"cpu":0,"memory":0},"last_backend_state":1764730064322,"last_ipynb_save":1764730105463,"trust":true,"type":"settings"}
+{"end":1764730064345,"exec_count":3,"id":"d89a03","input":"# Financial performance data goes here","kernel":"python3","pos":0,"start":1764730064343,"state":"done","type":"cell"}
+{"last_load":1764729927928,"type":"file"}
