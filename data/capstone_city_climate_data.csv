@@ -1,0 +1,91 @@
+city,climate_risk_assessment_YN,CDP_response_year,num_hazards,most_common_hazard,population,population_year,land_area_sqkm,num_adapt_programs,pop_density
+New York,Yes,2019,5.0,Flood and sea level rise,,,,7.0,
+Los Angeles,Yes,2019,6.0,Flood and sea level rise,,,,8.0,
+Chicago,Yes,2019,6.0,Extreme Precipitation,,,,1.0,
+Houston,No,2019,6.0,Extreme heat,,,,7.0,
+Phoenix,Yes,2019,5.0,Extreme heat,,,,,
+Philadelphia,Yes,2019,4.0,Extreme cold,,,,4.0,
+San Antonio,Yes,2019,5.0,Biological hazards,,,,4.0,
+San Diego,No,2019,,,,,,,
+Austin,Yes,2019,4.0,Extreme heat,,,,5.0,
+Dallas,Yes,2019,5.0,Flood and sea level rise,,,,3.0,
+San José,No,2019,5.0,Extreme heat,,,,7.0,
+Indianapolis,Yes,2019,6.0,Extreme Precipitation,,,,5.0,
+Columbus,Yes,2019,6.0,Extreme heat,,,,25.0,
+Charlotte,No,2019,3.0,Chemical change,,,,3.0,
+Portland,Yes,2019,4.0,Extreme heat,,,,6.0,
+San Francisco,Yes,2019,8.0,Extreme heat,,,,4.0,
+Seattle,Yes,2019,3.0,Flood and sea level rise,,,,3.0,
+Denver,Yes,2019,4.0,Biological hazards,,,,4.0,
+New York,Yes,2020,5.0,Flood and sea level rise,,,,7.0,
+Los Angeles,Yes,2020,6.0,Flood and sea level rise,,,,8.0,
+Chicago,Yes,2020,6.0,Extreme Precipitation,,,,1.0,
+Houston,Yes,2020,7.0,Extreme heat,,,,7.0,
+Phoenix,Yes,2020,5.0,Extreme heat,,,,4.0,
+Philadelphia,Yes,2020,4.0,Extreme cold,,,,4.0,
+San Antonio,Yes,2020,5.0,Biological hazards,,,,4.0,
+San Diego,Yes,2020,4.0,Extreme Precipitation,,,,2.0,
+Austin,Yes,2020,4.0,Extreme heat,,,,5.0,
+Dallas,Yes,2020,5.0,Flood and sea level rise,,,,3.0,
+San José,Yes,2020,6.0,Extreme heat,,,,9.0,
+Indianapolis,Yes,2020,6.0,Extreme Precipitation,,,,5.0,
+Columbus,Yes,2020,6.0,Extreme heat,,,,25.0,
+Charlotte,No,2020,3.0,Chemical change,,,,5.0,
+Portland,Yes,2020,4.0,Extreme heat,,,,6.0,
+San Francisco,Yes,2020,8.0,Extreme heat,,,,4.0,
+Seattle,Yes,2020,3.0,Flood and sea level rise,,,,3.0,
+Denver,Yes,2020,4.0,Biological hazards,,,,4.0,
+New York,Yes,2021,5.0,Extreme heat,,,,7.0,
+Los Angeles,Yes,2021,6.0,Flood and sea level rise,,,,8.0,
+Chicago,Yes,2021,6.0,Extreme Precipitation,,,,5.0,
+Houston,Yes,2021,9.0,Extreme heat,,,,7.0,
+Phoenix,Yes,2021,5.0,Extreme heat,,,,4.0,
+Philadelphia,Yes,2021,4.0,Extreme cold,,,,4.0,
+San Antonio,Yes,2021,5.0,Biological hazards,,,,5.0,
+San Diego,Yes,2021,4.0,Extreme Precipitation,,,,3.0,
+Austin,Yes,2021,5.0,Extreme cold,,,,6.0,
+Dallas,Yes,2021,6.0,Flood and sea level rise,,,,4.0,
+San José,Yes,2021,6.0,Extreme heat,,,,9.0,
+Indianapolis,Yes,2021,6.0,Extreme Precipitation,,,,5.0,
+Columbus,Yes,2021,6.0,Extreme heat,,,,26.0,
+Charlotte,No,2021,3.0,Chemical change,,,,6.0,
+Portland,Yes,2021,4.0,Extreme heat,,,,5.0,
+San Francisco,Yes,2021,8.0,Extreme heat,,,,4.0,
+Seattle,Yes,2021,3.0,Flood and sea level rise,,,,3.0,
+Denver,Yes,2021,4.0,Biological hazards,,,,4.0,
+New York,Yes,2022,3.0,Extreme Precipitation,,,,7.0,
+Los Angeles,Yes,2022,5.0,Extreme Precipitation,,,,8.0,
+Chicago,Yes,2022,5.0,Extreme Precipitation,,,,8.0,
+Houston,Yes,2022,6.0,Air pollution,,,,7.0,
+Phoenix,Yes,2022,5.0,Biological hazards,,,,4.0,
+Philadelphia,Yes,2022,2.0,Extreme heat,,,,5.0,
+San Antonio,Yes,2022,3.0,Flood and sea level rise,,,,6.0,
+San Diego,Yes,2022,5.0,Extreme Precipitation,,,,3.0,
+Austin,Yes,2022,5.0,Extreme cold,,,,7.0,
+Dallas,Yes,2022,5.0,Biological hazards,,,,5.0,
+San José,Yes,2022,4.0,Extreme heat,,,,13.0,
+Indianapolis,Yes,2022,3.0,Extreme Precipitation,,,,5.0,
+Columbus,Yes,2022,3.0,Extreme Precipitation,,,,26.0,
+Charlotte,Yes,2022,6.0,Extreme heat,,,,9.0,
+Portland,Yes,2022,3.0,Extreme heat,,,,6.0,
+San Francisco,Yes,2022,6.0,Chemical change,,,,4.0,
+Seattle,Yes,2022,2.0,Extreme heat,,,,3.0,
+Denver,Yes,2022,3.0,Biological hazards,,,,4.0,
+New York,Yes,2023,3.0,Extreme Precipitation,8804190.0,2020.0,778.0,7.0,11316.439588688945
+Los Angeles,Yes,2023,5.0,Extreme Precipitation,3766109.0,2023.0,1218.0,8.0,3092.043513957307
+Chicago,Yes,2023,5.0,Extreme Precipitation,2696555.0,2021.0,587.0,8.0,4593.790459965929
+Houston,Yes,2023,5.0,Extreme Precipitation,2288250.0,2021.0,1740.0,7.0,1315.0862068965516
+Phoenix,Yes,2023,5.0,Biological hazards,1657035.0,2022.0,1347.0,4.0,1230.1670378619153
+Philadelphia,Yes,2023,2.0,Extreme heat,1576251.0,2022.0,348.0,5.0,4529.456896551724
+San Antonio,Yes,2023,3.0,Flood and sea level rise,1472909.0,2022.0,1200.0,6.0,1227.4241666666667
+San Diego,Yes,2023,5.0,Extreme heat,1382000.0,2023.0,332.0,3.0,4162.650602409639
+Austin,Yes,2023,5.0,Extreme cold,1297458.0,2021.0,1823.0,7.0,711.7158529895776
+Dallas,Yes,2023,5.0,Biological hazards,1288457.0,2021.0,879.6,5.0,1464.8215097771715
+San José,Yes,2023,4.0,Extreme heat,976482.0,2022.0,414.0,13.0,2358.6521739130435
+Indianapolis,Yes,2023,3.0,Extreme Precipitation,969466.0,2021.0,950.0,5.0,1020.4905263157895
+Columbus,Yes,2023,3.0,Extreme Precipitation,908386.0,2022.0,580.0,25.0,1566.1827586206896
+Charlotte,Yes,2023,6.0,Storm and wind,897720.0,2022.0,770.0,9.0,1165.8701298701299
+Portland,Yes,2023,3.0,Extreme heat,812563.0,2021.0,375.0,6.0,2166.8346666666666
+San Francisco,Yes,2023,6.0,Chemical change,808437.0,2022.0,121.0,4.0,6681.297520661157
+Seattle,Yes,2023,3.0,Extreme heat,737015.0,2020.0,217.0,3.0,3396.3824884792625
+Denver,Yes,2023,3.0,Biological hazards,713252.0,2020.0,401.0,4.0,1778.6832917705735

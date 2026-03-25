@@ -1,0 +1,75 @@
+﻿city,CDP_response_year,most_sig_hazard,probability,magnitude,expected_intensity_change,expected_frequency_change,timeframe_expected_change,population_exposed
+New York,2023,Extreme Precipitation,Medium High,Medium,Increasing,Increasing,Short-term (by 2025),90-100%
+New York,2023,Extreme heat,High,High,Increasing,Increasing,Short-term (by 2025),20-30%
+New York,2023,Flood and sea level rise,High,High,Increasing,Increasing,Short-term (by 2025),<10%
+Los Angeles,2023,Extreme Precipitation,High,Medium High,Increasing,Do not know,Medium-term (2026-2050),90-100%
+Los Angeles,2023,Heat stress,High,Medium High,Increasing,Increasing,Medium-term (2026-2050),90-100%
+Los Angeles,2023,Water Scarcity,High,High,Increasing,Increasing,Medium-term (2026-2050),90-100%
+Los Angeles,2023,Wild fire,High,Medium High,Increasing,Increasing,Medium-term (2026-2050),10-20%
+Los Angeles,2023,Flood and sea level rise,Medium,Medium High,Increasing,Increasing,Medium-term (2026-2050),<10%
+Chicago,2023,Flood and sea level rise,Medium High,Medium High,Increasing,Increasing,Medium-term (2026-2050),<10%
+Chicago,2023,Extreme heat,High,Medium Low,Increasing,Increasing,Medium-term (2026-2050),20-30%
+Chicago,2023,Extreme Precipitation,Medium High,Medium High,Increasing,Increasing,Medium-term (2026-2050),10-20%
+Chicago,2023,Extreme wind,Low,Medium Low,Increasing,Increasing,Short-term (by 2025),<10%
+Chicago,2023,Extreme cold,Medium High,Medium,Increasing,Increasing,Short-term (by 2025),20-30%
+Houston,2023,Extreme heat,High,Medium,Increasing,Increasing,Short-term (by 2025),90-100%
+Houston,2023,Water Scarcity,High,Medium,Increasing,Increasing,Short-term (by 2025),90-100%
+Houston,2023,Flood and sea level rise,High,High,Increasing,None,Short-term (by 2025),30-40%
+Houston,2023,Storm and wind,High,High,Increasing,Increasing,Short-term (by 2025),90-100%
+Houston,2023,Extreme Precipitation,High,High,Increasing,None,Short-term (by 2025),90-100%
+Phoenix,2023,Heat stress,High,Medium,Increasing,Increasing,Short-term (by 2025),40-50%
+Phoenix,2023,Biological hazards,Low,Low,Increasing,Increasing,Medium-term (2026-2050),<10%
+Phoenix,2023,Extreme heat,High,Medium,Increasing,Increasing,Short-term (by 2025),40-50%
+Phoenix,2023,Flood and sea level rise,Medium High,Medium High,Increasing,Increasing,Short-term (by 2025),<10%
+Phoenix,2023,Water Scarcity,High,Medium Low,Increasing,Increasing,Short-term (by 2025),<10%
+Philadelphia,2023,Extreme heat,Medium High,High,Increasing,Increasing,Medium-term (2026-2050),30-40%
+Philadelphia,2023,Flood and sea level rise,High,Medium High,Increasing,Increasing,Short-term (by 2025),20-30%
+San Antonio,2023,Water Scarcity,High,High,Increasing,Increasing,Medium-term (2026-2050),90-100%
+San Antonio,2023,Flood and sea level rise,High,High,Increasing,Increasing,Medium-term (2026-2050),40-50%
+San Antonio,2023,Heat stress,High,High,Increasing,Increasing,Medium-term (2026-2050),40-50%
+San Diego,2023,Extreme heat,High,Medium High,Increasing,Increasing,Short-term (by 2025),60-70%
+San Diego,2023,Heavy precipitation,Medium High,Medium Low,Increasing,Increasing,Medium-term (2026-2050),30-40%
+San Diego,2023,Wild fire,High,High,Increasing,Increasing,Short-term (by 2025),90-100%
+San Diego,2023,Flood and sea level rise,Medium High,Medium High,Increasing,Increasing,Short-term (by 2025),20-30%
+San Diego,2023,Water Scarcity,High,Medium,Increasing,Increasing,Short-term (by 2025),90-100%
+Austin,2023,Water Scarcity,High,Medium,Increasing,Increasing,Short-term (by 2025),90-100%
+Austin,2023,Flood and sea level rise,High,High,Increasing,Increasing,Short-term (by 2025),10-20%
+Austin,2023,Extreme heat,High,High,Increasing,Increasing,Short-term (by 2025),90-100%
+Austin,2023,Wild fire,High,High,Increasing,Increasing,Short-term (by 2025),30-40%
+Austin,2023,Extreme cold,Medium Low,High,None,Increasing,Medium-term (2026-2050),90-100%
+Dallas,2023,Water Scarcity,Medium High,Medium High,Increasing,Increasing,Short-term (by 2025),30-40%
+Dallas,2023,Heat stress,Medium High,Medium,Increasing,Increasing,Short-term (by 2025),50-60%
+Dallas,2023,Biological hazards,High,High,Increasing,Increasing,Short-term (by 2025),30-40%
+Dallas,2023,Flood and sea level rise,Medium High,Medium High,Increasing,Increasing,Medium-term (2026-2050),20-30%
+Dallas,2023,Wild fire,Medium High,Medium High,Increasing,Increasing,Short-term (by 2025),20-30%
+San José,2023,Extreme heat,High,Medium,Increasing,Increasing,Short-term (by 2025),90-100%
+San José,2023,Water Scarcity,High,High,Increasing,Increasing,Short-term (by 2025),90-100%
+San José,2023,Flood and sea level rise,Medium High,Medium High,Increasing,Increasing,Short-term (by 2025),10-20%
+San José,2023,Wild fire,Medium High,Medium High,Increasing,Increasing,Short-term (by 2025),90-100%
+Indianapolis,2023,Extreme Precipitation,High,Medium,Increasing,Increasing,Medium-term (2026-2050),<10%
+Indianapolis,2023,Extreme heat,Medium,Medium,Increasing,Increasing,Medium-term (2026-2050),90-100%
+Indianapolis,2023,Water Scarcity,Medium Low,Medium Low,Increasing,Increasing,Long-term (after 2050),90-100%
+Columbus,2023,Flood and sea level rise,High,High,Increasing,Increasing,Medium-term (2026-2050),10-20%
+Columbus,2023,Extreme Precipitation,High,High,Increasing,Increasing,Short-term (by 2025),90-100%
+Columbus,2023,Extreme heat,Medium,High,Increasing,Increasing,Medium-term (2026-2050),90-100%
+Charlotte,2023,Flood and sea level rise,Medium,Medium High,Increasing,Increasing,Medium-term (2026-2050),<10%
+Charlotte,2023,Storm and wind,Medium Low,Medium High,Increasing,Increasing,Medium-term (2026-2050),90-100%
+Charlotte,2023,Extreme heat,Medium High,High,Increasing,Increasing,Medium-term (2026-2050),90-100%
+Charlotte,2023,Water Scarcity,Medium High,Low,Increasing,Increasing,Medium-term (2026-2050),90-100%
+Charlotte,2023,Wild fire,Medium Low,Low,Increasing,Increasing,Not known (not possible to define),<10%
+Charlotte,2023,Storm and wind,High,Medium Low,Increasing,Increasing,Long-term (after 2050),90-100%
+Portland,2023,Extreme heat,High,High,Increasing,Increasing,Short-term (by 2025),90-100%
+Portland,2023,Mass movement,High,Medium,Increasing,Increasing,Short-term (by 2025),<10%
+Portland,2023,Flood and sea level rise,High,Medium High,Increasing,Increasing,Medium-term (2026-2050),<10%
+San Francisco,2023,Flood and sea level rise,Medium High,Medium,Increasing,Increasing,Medium-term (2026-2050),<10%
+San Francisco,2023,Water Scarcity,Medium High,Medium,Increasing,Increasing,Short-term (by 2025),90-100%
+San Francisco,2023,Extreme heat,High,Medium,Increasing,Increasing,Short-term (by 2025),N/A
+San Francisco,2023,Extreme Precipitation,Medium High,Medium,Increasing,Do not know,Medium-term (2026-2050),N/A
+San Francisco,2023,Chemical change,Medium High,Medium,Increasing,Increasing,Medium-term (2026-2050),N/A
+San Francisco,2023,Wild fire,High,Medium,Increasing,Increasing,Short-term (by 2025),90-100%
+Seattle,2023,Extreme heat,Medium,High,Increasing,Increasing,Short-term (by 2025),60-70%
+Seattle,2023,Flood and sea level rise,High,High,Increasing,Increasing,Medium-term (2026-2050),20-30%
+Seattle,2023,Wild fire,Medium,Medium High,Increasing,Increasing,Medium-term (2026-2050),N/A
+Denver,2023,Water Scarcity,Medium High,Medium High,Increasing,Increasing,Short-term (by 2025),90-100%
+Denver,2023,Biological hazards,Medium,Medium,Do not know,Do not know,Medium-term (2026-2050),30-40%
+Denver,2023,Extreme heat,High,Medium,Increasing,Increasing,Short-term (by 2025),90-100%
