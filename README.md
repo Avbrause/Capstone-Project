@@ -108,3 +108,10 @@ All variables are drawn from the CDP Cities Survey Response Data (2019–2023) u
 - CDP reporting is voluntary and self-reported, which may introduce reporting bias — cities with stronger climate programs may be more likely to participate, potentially skewing results toward higher adaptation counts.
 
 - The most recent fully completed CDP Cities dataset is from 2023, leaving a time gap between then and the present day (2026). This analysis therefore does not account for post-2023 developments.
+## Ethical Considerations
+
+**Privacy:** This dataset contains no individual-level data. All observations are aggregated at the city-year level and sourced from CDP's public open data portal. No personally identifiable information is present or at risk.
+
+**Governance:** The CDP Cities Survey is voluntary and self-reported. Cities choose whether to participate and what to disclose, meaning the dataset reflects only those municipalities that opted in. This introduces a selection dynamic where cities with stronger climate programs may be more likely to report, and findings should be interpreted with this in mind rather than as representative of all U.S. cities.
+
+**Bias:** Two potential sources of bias are worth noting. First, reporting bias: because CDP participation is voluntary, cities with more robust climate initiatives are likely overrepresented, which may inflate average hazard and adaptation program counts relative to the broader universe of U.S. municipalities. Second, standardization bias: population, land area, and density values were standardized to 2023 figures and applied uniformly across all years. This assumes these are stable city characteristics, which may not hold for faster-growing cities in the dataset, potentially masking the influence of population change on climate reporting behavior.
