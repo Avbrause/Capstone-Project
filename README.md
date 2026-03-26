@@ -2,6 +2,10 @@
 **Topic: Trends in U.S. Cities Hazard Identification and Climate Initiatives in CDP Reporting (2019-2023)**
 
 Anna Brause, March 2026
+
+# Summary
+This project examines how 18 of the most populous U.S. cities have managed climate risk from 2019 to 2023, using five years of Carbon Disclosure Project (CDP) Cities Survey data. Key findings reveal that formal climate risk assessments have become universal among major U.S. cities, adaptation programs have grown steadily over time, climate initiatives dipped but recovered following the COVID-19 pandemic, extreme heat is the dominant reported hazard across all five years analysed, and city size shows no meaningful relationship with climate adaptation effort.
+
 # Project Rationale
 As climate change accelerates, cities are on the frontlines of managing environmental hazards as they are home to 55% of the world's population, a figure that is projected to reach 68% by 2050 (United Nations, 2018). Municipal governments are tasked with identifying hazards, assessing vulnerability, and implementing adaptation programs, all while navigating competing budget pressures, shifting federal priorities, and unexpected disruptions like the COVID-19 pandemic. Understanding how cities are actually performing on climate change related issues and identifying any trends associated with hazard identification and climate adaptation planning over time is critical for informing more effective urban climate policy and protecting the large populations who call these cities home. 
 
