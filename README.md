@@ -22,6 +22,24 @@ This project analyzes five years of Carbon Disclosure Project (CDP) Cities Surve
 **Key Variables:** Climate risk assessment completion status, number of hazards identified, most common hazard type, number of adaptation programs, city population (2023), land area (2023), and population density (2023).
 
 Note on population and land area: Raw CDP survey data contained missing population and land area values for most cities in 2019-2022, as cities reported inconsistently across years. To address this, 2023 values - the most recent and complete year available - were extracted and applied uniformly across all reporting years via a left join on city name. Population density was then recalculated as population divided by land area (residents per sq km). This standardization is appropriate because population and land area are relatively stable city-level characteristics across the five-year window examined, and using a single reference year avoids introducing inconsistencies from patchwork data across multiple sources.
+## Data Dictionary
+
+All variables are drawn from the CDP Cities Survey Response Data (2019–2023) unless noted as derived.
+
+| Variable | Type | Description |
+|---|---|---|
+| **city** | character | Name of the U.S. city. Unit of analysis is city-year; each city appears once per reporting year. |
+| **CDP_response_year** | integer | Year of the CDP Cities Survey response. Forms the temporal dimension of the panel dataset. |
+| **climate_risk_assessment_YN** | factor | Whether the city completed a formal climate risk assessment in the given reporting year. Recoded from character to factor during cleaning. |
+| **num_hazards** | numeric | Number of climate hazards formally identified by the city in the reporting year. Primary outcome variable in hazard trend analysis. One missing value present. |
+| **most_common_hazard** | character | The single primary climate hazard type reported by the city for the given year. Captures only the top hazard; cities with multi-hazard exposure may be undercounted. Used in ANOVA and heatmap analyses. |
+| **num_adapt_programs** | numeric | Number of climate adaptation programs reported by the city in the given year. Primary outcome variable in adaptation trend analysis. Columbus, OH is a consistent high outlier (~24–26). Two missing values present. |
+| **population** | numeric | City population. Raw CDP data had missing values for most cities in 2019–2022; 2023 values were backfilled across all years via a left join on city name. Treated as a stable city-level characteristic across the 5-year window. |
+| **population_year** | numeric | Year from which the population value was originally recorded in the raw CDP dataset. Retained from source data; 72 of 90 values are NA due to the backfill methodology. |
+| **land_area_sqkm** | numeric | City land area in square kilometers. Same backfill methodology as population — 2023 values applied uniformly across all years. Used as denominator in the population density calculation. |
+| **pop_density** | derived | Population density in residents per square kilometer. Calculated as population ÷ land_area_sqkm after the 2023 backfill. Not sourced directly from CDP. Used in correlation and regression analyses as a city-size proxy. |
+
+> **Note on standardization:** Population, land area, and population density are fixed city-level characteristics in this dataset — they do not vary across the 2019–2023 reporting years. All cross-sectional city comparisons using these variables reflect 2023 values only. This limits the ability to analyze how city growth may have influenced climate reporting over time, and is acknowledged as a limitation of the analysis.
 # Analytical Goals
 - Track trends in climate risk assessment completion and hazard identification across cities from 2019-2023
 
